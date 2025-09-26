@@ -1,17 +1,13 @@
 <h1 align="center">Hello guys 👋, This is Abhijit!!</h1>
-<h3 align="center">Passionate part time engineer and a full time procrastinator.</h3>
+<h3 align="center">Passionate part time engineer and a full time procrastinator >_<.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhij3et&label=Profile%20views&color=0e75b6&style=flat" alt="abhij3et" /> </p>
 
-- 🔭 I’m currently working on [Smart Surveillance System](https://github.com/abhij3et/Smart_Surveillance_System)
-
 - 🌱 I’m currently learning **Full Stack Web development and Algorithms**
-
-- 💬 Ask me about **React.js and Node.js**
 
 - 📫 How to reach me **abhijitbarad09900@gmail.com**
 
-- ⚡ Fun fact **Have been a champion in 3+ sports (but in early stage of my life lol)**
+- ⚡ Fun fact: **Have been a champion in 3+ sports (but in early stage of my life lol)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
