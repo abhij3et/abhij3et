@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abhijitbarad09900@gmail.com**
 
-- ⚡ Fun fact: **Have been a champion in 3+ sports (but in early stage of my life lol)**
+- ⚡ Fun fact: **Initially hated coding but now slowly falling in love with it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
